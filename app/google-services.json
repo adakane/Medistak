@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "869929781303",
+    "project_id": "medistak-2f632",
+    "storage_bucket": "medistak-2f632.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:869929781303:android:2ef8aa1774f67ffa5d17b2",
+        "android_client_info": {
+          "package_name": "com.example.medistak"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "869929781303-8b6uqlc5c8aq44jl9594fd9r0nv1pjlq.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAfqjZIfP45o5aQ7awVRgVLYz5eJTQ2rW4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "869929781303-8b6uqlc5c8aq44jl9594fd9r0nv1pjlq.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
